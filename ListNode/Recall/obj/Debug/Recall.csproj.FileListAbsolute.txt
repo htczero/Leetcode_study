@@ -1,0 +1,6 @@
+E:\Study\Leetcode\ListNode\Recall\bin\Debug\Recall.exe.config
+E:\Study\Leetcode\ListNode\Recall\bin\Debug\Recall.exe
+E:\Study\Leetcode\ListNode\Recall\bin\Debug\Recall.pdb
+E:\Study\Leetcode\ListNode\Recall\obj\Debug\Recall.csproj.CoreCompileInputs.cache
+E:\Study\Leetcode\ListNode\Recall\obj\Debug\Recall.exe
+E:\Study\Leetcode\ListNode\Recall\obj\Debug\Recall.pdb

@@ -1,0 +1,6 @@
+E:\Study\Leetcode\ListNode\Stack_Queue\bin\Debug\Stack_Queue.exe.config
+E:\Study\Leetcode\ListNode\Stack_Queue\bin\Debug\Stack_Queue.exe
+E:\Study\Leetcode\ListNode\Stack_Queue\bin\Debug\Stack_Queue.pdb
+E:\Study\Leetcode\ListNode\Stack_Queue\obj\Debug\Stack_Queue.csproj.CoreCompileInputs.cache
+E:\Study\Leetcode\ListNode\Stack_Queue\obj\Debug\Stack_Queue.exe
+E:\Study\Leetcode\ListNode\Stack_Queue\obj\Debug\Stack_Queue.pdb

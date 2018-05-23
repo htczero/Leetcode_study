@@ -1,0 +1,6 @@
+E:\Study\Leetcode\ListNode\Dynamic\bin\Debug\Dynamic.exe.config
+E:\Study\Leetcode\ListNode\Dynamic\bin\Debug\Dynamic.exe
+E:\Study\Leetcode\ListNode\Dynamic\bin\Debug\Dynamic.pdb
+E:\Study\Leetcode\ListNode\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+E:\Study\Leetcode\ListNode\Dynamic\obj\Debug\Dynamic.exe
+E:\Study\Leetcode\ListNode\Dynamic\obj\Debug\Dynamic.pdb

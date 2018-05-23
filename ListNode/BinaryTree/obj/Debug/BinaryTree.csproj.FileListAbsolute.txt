@@ -1,0 +1,6 @@
+E:\Study\Leetcode\ListNode\BinaryTree\bin\Debug\BinaryTree.exe.config
+E:\Study\Leetcode\ListNode\BinaryTree\bin\Debug\BinaryTree.exe
+E:\Study\Leetcode\ListNode\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Study\Leetcode\ListNode\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+E:\Study\Leetcode\ListNode\BinaryTree\obj\Debug\BinaryTree.exe
+E:\Study\Leetcode\ListNode\BinaryTree\obj\Debug\BinaryTree.pdb

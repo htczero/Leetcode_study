@@ -1,0 +1,6 @@
+E:\Study\Leetcode\ListNode\Greedy\bin\Debug\Greedy.exe.config
+E:\Study\Leetcode\ListNode\Greedy\bin\Debug\Greedy.exe
+E:\Study\Leetcode\ListNode\Greedy\bin\Debug\Greedy.pdb
+E:\Study\Leetcode\ListNode\Greedy\obj\Debug\Greedy.csproj.CoreCompileInputs.cache
+E:\Study\Leetcode\ListNode\Greedy\obj\Debug\Greedy.exe
+E:\Study\Leetcode\ListNode\Greedy\obj\Debug\Greedy.pdb
